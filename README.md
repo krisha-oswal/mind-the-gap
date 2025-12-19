@@ -1,4 +1,4 @@
-# Reddit Mental Health Sentiment Analysis
+# MIND THE GAP: Reddit Mental Health Sentiment Analysis
 
 **Ensemble Learning, Transformer Models, and Explainable AI**
 

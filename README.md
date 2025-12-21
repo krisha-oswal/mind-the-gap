@@ -194,17 +194,5 @@ Each issue was resolved through dependency fixes, explicit label handling, prope
 * Creating a small human-annotated validation set
 * Deploying the system as a real-time analysis dashboard
 
----
-
-## Author
-
-Krisha Oswal
-
----
-
-## License
-
-This project is intended for academic and educational use.
-
 
 
